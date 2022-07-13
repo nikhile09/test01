@@ -1,0 +1,15 @@
+[ "org.example.Fleet", {
+  "vehicles" : [ "java.util.ArrayList", [ [ "org.utils.Car", {
+    "brand" : "Maruti",
+    "model" : "800",
+    "bodyType" : "Hatchback"
+  } ], [ "org.utils.Truck", {
+    "brand" : "Ford",
+    "model" : "F40",
+    "payload" : 500.0
+  } ], [ "org.utils.Bike", {
+    "brand" : "Yamaha",
+    "model" : "R15",
+    "hasPillionSeat" : true
+  } ] ] ]
+} ]
